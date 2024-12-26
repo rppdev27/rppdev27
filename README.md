@@ -2,6 +2,6 @@
 - 👀 I’m interested in frontend development, focusing on the React ecosystem and SEO optimization.
 - 🌱 I’m currently learning more about React Native and advanced SEO strategies. Previously, I worked extensively with Vue and Nuxt.js, but now I’m focused on React, React Native and Next.js.
 - 💞️ I’m looking to collaborate on projects involving React, Next.js, or React Native, with a focus on SEO.
-- 📫 How to reach me: rppdev27@gmail.com or [https://ryandev.site](https://ryandev.site)
+- 📫 How to reach me: rppdev27@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I sometimes design UI using Figma and enjoy optimizing websites for SEO. I'm also passionate about running!
