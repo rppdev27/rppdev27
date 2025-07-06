@@ -1,7 +1,7 @@
-👋 Hi, I'm Ryan
-👀 I'm interested in frontend web development, specializing in the React ecosystem and SEO optimization for web applications.
-🌱 I'm currently deepening my expertise in React and Next.js, with a focus on building performant, SEO-optimized web apps. I have some experience with React Native and previously worked extensively with Vue and Nuxt.js.
-🛠️ I enjoy crafting user interfaces with Figma and implementing advanced SEO strategies to boost web performance and search visibility.
-📫 How to reach me: rppdev27@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: When I'm not optimizing websites or designing UIs, you'll find me out running!
+- 👋 Hi, I'm Ryan
+- 👀 I'm interested in frontend web development, specializing in the React ecosystem and SEO optimization for web applications.
+- 🌱 I'm currently deepening my expertise in React and Next.js, with a focus on building performant, SEO-optimized web apps. I have some experience with React Native and previously worked extensively with Vue and Nuxt.js.
+- 🛠️ I enjoy crafting user interfaces with Figma and implementing advanced SEO strategies to boost web performance and search visibility.
+- 📫 How to reach me: rppdev27@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I'm not optimizing websites or designing UIs, you'll find me out running!
